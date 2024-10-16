@@ -1,0 +1,15 @@
+debug/WindowsOrgonizerQt_resource_res.o
+debug/CustomLineEdit.o
+debug/database.o
+debug/descriptiondialog.o
+debug/loginwindow.o
+debug/main.o
+debug/mainwindow.o
+debug/mainwindowmenu.o
+debug/registrationwindow.o
+debug/moc_CustomLineEdit.o
+debug/moc_MainWindow.o
+debug/moc_descriptiondialog.o
+debug/moc_loginwindow.o
+debug/moc_mainwindowmenu.o
+debug/moc_registrationwindow.o

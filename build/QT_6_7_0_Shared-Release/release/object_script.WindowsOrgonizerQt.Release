@@ -1,0 +1,15 @@
+release/WindowsOrgonizerQt_resource_res.o
+release/CustomLineEdit.o
+release/database.o
+release/descriptiondialog.o
+release/loginwindow.o
+release/main.o
+release/mainwindow.o
+release/mainwindowmenu.o
+release/registrationwindow.o
+release/moc_CustomLineEdit.o
+release/moc_MainWindow.o
+release/moc_descriptiondialog.o
+release/moc_loginwindow.o
+release/moc_mainwindowmenu.o
+release/moc_registrationwindow.o
